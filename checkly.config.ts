@@ -4,6 +4,7 @@ export default defineConfig({
   projectName: 'Crypto Dashboard',
   logicalId: 'crypto-dashboard',
   repoUrl: 'https://github.com/your-repo/crypto-dashboard',
+  accountId: 'aef047d0-6519-49eb-b651-f12aea78b041',
   checks: {
     activated: true,
     muted: false,
